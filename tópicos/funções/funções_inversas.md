@@ -13,7 +13,9 @@ A função $f$ precisa ser bijetora, pois ao trocar $A$ com $B$:
 
 Para encontrar a função inversa, troca-se de lugar o $y$ com o $x$
 
-**Exemplo**: Determinar as funções inversas
+**Exemplo 1**
+
+Determinar as funções inversas
 - $y = 2x-3$
 $$x = 2y - 3$$
 $$-2y = -x - 3$$
@@ -31,7 +33,3 @@ $$y(-2x - 1) = 3 - x$$
 $$y = \frac{3 - x}{-2x - 1}$$
 $$y = \frac{x - 3}{2x + 1}$$
 $$f^{-1}(x) = \frac{x - 3}{2x + 1}$$
-
-![](../../assets/função_inversa_1.jpg)
-![](../../assets/função_inversa_2.jpg)
-![](../../assets/função_inversa_3.jpg)

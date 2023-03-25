@@ -4,13 +4,13 @@ A sequência
 
 $$(a_1, a_2, a_3, \dots, a_n)$$
 
-é uma P.G. de razão $q$
+é uma P.G. de razão $q$, sendo classificada em
 
 - Crescente
-  - $q > 1$ e $a_1 > 0$ ou
+  - $q > 1$ e $a_1 > 0$ *ou*
   - $0 < q < 1$ e $a_1 < 0$
 - Decrescente
-  - $0 < q < 1$ e $a_1 > 0$ ou
+  - $0 < q < 1$ e $a_1 > 0$ *ou*
   - $q > 1$ e $a_1 < 0$
 - Oscilante: $q < 0$
 - Constante: $q = 1$

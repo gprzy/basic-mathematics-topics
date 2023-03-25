@@ -1,5 +1,7 @@
 # Função Logarítmica
 
+## Definição
+
 $$
 f(x) = \log_{b}{x}
 \begin{cases}
@@ -13,7 +15,5 @@ $$
 - $x > 0$
 
 ## Função crescente ($b > 0$)
-![crescente](../../assets/log_crescente.png)
 
 ## Função decrescente ($0 < b < 1$)
-![decrescente](../../assets/log_decrescente.png)

@@ -10,10 +10,11 @@ Ou então associação entre os elementos do domínio $D(f)$ com os elementos do
 $$D(f) \rightarrow CD(f)$$
 $$I_m(f) \in CD(f)$$
 
-```mermaid
-flowchart LR;
-    A(1&nbsp;&nbsp;&nbsp;2<br>3&nbsp;&nbsp;&nbsp;4<br>5&nbsp;&nbsp;&nbsp;6) -->|<i>&nbsp;f&nbsp;<i/>| B(7&nbsp;&nbsp;&nbsp;-2<br>3&nbsp;&nbsp;&nbsp;8<br>1&nbsp;&nbsp;&nbsp;9)
-```
+Onde
+
+- **Domínio** $D(f)$: Valores que $x$ pode assumir;
+- **Imagem** $I_m(f)$: Valores que $y$ pode assumir;
+- **Contra-domínio** $CD(f)$: Conjunto que contém os valores que $y$ pode assumir, bem como os que não pode;
 
 ---
 

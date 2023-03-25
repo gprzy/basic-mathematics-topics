@@ -2,6 +2,8 @@
 
 ## Noção intuitiva
 
+Exemplos intuitivos de limites
+
 $$1, \ 2, \ 3, \ 4, \ 5, \ \dots \ x \rightarrow +\infty$$
 
 $$\frac{1}{2}, \ \frac{2}{3}, \ \frac{3}{4}, \ \frac{4}{5}, \ \frac{5}{6}, \ \dots \ x \rightarrow 1$$

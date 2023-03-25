@@ -26,10 +26,5 @@ $$f(x) = a^{x}$$
 
 ## Gráfico da função exponencial
 
-  - **Função crescente**: Se $a > 1$
-  - **Função decrescente**: Se $0 < a < 1$
-
-![](../../assets/função_exponencial_1.jpg)
-![](../../assets/função_exponencial_2.jpg)
-![](../../assets/função_exponencial_3.jpg)
-![](../../assets/função_exponencial_4.jpg)
+  - **Função crescente**, se $a > 1$
+  - **Função decrescente**, se $0 < a < 1$

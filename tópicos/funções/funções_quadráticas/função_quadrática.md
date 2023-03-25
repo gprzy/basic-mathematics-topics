@@ -8,23 +8,23 @@ $$f(x) = ax^2 + bx + c$$
 
 ## Gráfico
 
-- Função crescente ($a > 0$): parábola com **concavidade para cima**
-- Função decrescente ($a < 0$): parábola com **concavidade para baixo**
+- **Função crescente** ($a > 0$): parábola com concavidade para cima;
+- **Função decrescente** ($a < 0$): parábola com concavidade para baixo;
 
-![](../../assets/função_quadrática_1.jpg)
-![](../../assets/função_quadrática_2.jpg)
-![](../../assets/função_quadrática_3.jpg)
-![](../../assets/função_quadrática_4.jpg)
-
-## Vértice
+## Coordenadas do vértice
 $$x_v = \frac{-b}{2a}$$
 $$y_v = \frac{-\Delta}{4a}$$
 
 ## Raízes
-Intersecção com o eixo $x$
+As raízes representam a intersecção com o eixo $x$, sendo
+
+$$x = \frac{-b \pm \sqrt{\Delta}}{2a}$$
+$$\Delta = b^2 - 4ac$$
 
 ## Coeficientes
-$c$ é a intersecção com o eixo $y$
+- $a$ é a "curvatura" da parábola;
+- $b$ é a inclinação da reta tangente à parabola no vértice;
+- $c$ é a intersecção com o eixo $y$;
 
 ## Soma e Produto
 - A soma das raízes da equação é $S = x_1 + x_2$
