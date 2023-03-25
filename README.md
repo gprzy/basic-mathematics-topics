@@ -43,8 +43,8 @@ A estrutura de conteúdos é uma adaptação da estrutura encontrada na coleçã
 
 ## Referências
 Como referências para os tópicos aqui abordados, tem-se:
-- [Fundamentos de Matemática Elementar (1 ao 11)](https://www.amazon.com.br/Fundamentos-Matem%C3%A1tica-Elementar-Gelson-Murakami/dp/8535716807);
-- [A Matemática do Ensino Médio (1 ao 4)](https://loja.sbm.org.br/a-matematica-do-ensino-medio-volume-1.html);
+- [Fundamentos de Matemática Elementar (Volumes 1-11)](https://www.amazon.com.br/Fundamentos-Matem%C3%A1tica-Elementar-Gelson-Murakami/dp/8535716807);
+- [A Matemática do Ensino Médio (Volumes 1-4)](https://loja.sbm.org.br/a-matematica-do-ensino-medio-volume-1.html);
 - [Análise Combinatória e Probabilidade](https://loja.sbm.org.br/analise-combinatoria-e-probabilidade.html);
 - [PIC OBMEP (YouTube)](https://www.youtube.com/@PICOBMEP);
 - [Equaciona Matemática (YouTube)](https://www.youtube.com/@equacionamatematica);

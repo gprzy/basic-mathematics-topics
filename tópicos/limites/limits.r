@@ -1,4 +1,4 @@
-calculate_limit <- function(func, value){
-    limit <- func(value)
+calculate_limit <- function(func, value) {
+    y <- func(value)
     return(y)
 }
