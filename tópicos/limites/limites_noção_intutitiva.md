@@ -13,15 +13,15 @@ $$1, \ 0, \ 3, \ -1, \ -2, \ \dots \ x \rightarrow -\infty$$
 $$1, \ \frac{1}{2}, \ 2, \ \frac{2}{3}, \ 3, \ \frac{3}{4}, \ \dots \ x \rightarrow \emptyset$$
 
 
-## Exemplos com função
+## Exemplos com funções
 
-### Exemplo 1: Função $1/x$
+**Exemplo 1: $1/x$**
 
 $$f(x) = \frac{1}{x}$$
 $$\lim_{x \rightarrow +\infty}{\frac{1}{x}} = 0$$
 $$\lim_{x \rightarrow -\infty}{\frac{1}{x}} = 0$$
 
-### Exemplo 2: Função quadrática
+**Exemplo 2: função quadrática**
 
 $$f(x) = x^2 -3x + 2$$
 
@@ -31,7 +31,7 @@ $$\lim_{x \rightarrow -\infty}{f(x)} = +\infty$$
 
 $$\lim_{x \rightarrow 1}{f(x)} = 0$$
 
-### Exemplo 3: Utilizando o limite de $1/x$
+**Exemplo 3: utilizando o limite de $1/x$**
 
 $$f(x) = \frac{2x+1}{x-1}$$
 
