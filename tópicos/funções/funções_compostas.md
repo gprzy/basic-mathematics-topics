@@ -2,7 +2,7 @@
 
 $$g \circ f(x) = g(f(x))$$
 
-**Exemplo 1**
+**Exemplo 1: obtendo a função composta de duas funções**
 
 Dadas $f(x) = 2x - 3$ e $g(x) = 4x + 1$, calcule:
 

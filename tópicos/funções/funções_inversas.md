@@ -13,9 +13,10 @@ A função $f$ precisa ser bijetora, pois ao trocar $A$ com $B$:
 
 Para encontrar a função inversa, troca-se de lugar o $y$ com o $x$
 
-**Exemplo 1**
+**Exemplo 1: obtendo a função inversa de uma função**
 
-Determinar as funções inversas
+Determinar as funções inversas das funções abaixo
+
 - $y = 2x-3$
 $$x = 2y - 3$$
 $$-2y = -x - 3$$

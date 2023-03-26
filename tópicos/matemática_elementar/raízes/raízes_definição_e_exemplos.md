@@ -10,7 +10,7 @@ Onde
 - $a$ é o radicando;
 - $n$ é o índice da raíz;
 
-**Exemplos**
+**Exemplos básicos**
 
 $$\sqrt{25} = 5$$
 $$\sqrt[3]{27} = 3$$
