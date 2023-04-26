@@ -13,7 +13,7 @@ $$(a+b)(a-b) = a^2 - b^2$$
 $$(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$
 
 - **Cubo da diferença**
-$$(a+b)^3 = a^3 - 3a^2b + 3ab^2 + b^3$$
+$$(a-b)^3 = a^3 - 3a^2b + 3ab^2 + b^3$$
 
 - **Produto de Stevin**
 $$(x+a)(x+b) = x^2 + (a+b)x + ab$$
